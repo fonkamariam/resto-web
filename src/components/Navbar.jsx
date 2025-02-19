@@ -132,7 +132,6 @@ const Navbar = () => {
               Reviews
             </Link>
 
-            <Button title="Login" />
           </nav>
 
           <div className="md:hidden flex items-center">
